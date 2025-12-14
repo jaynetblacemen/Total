@@ -21,7 +21,8 @@ curl -fsSL https://raw.githubusercontent.com/jaynetblacemen/Total/main/Installat
 
 ```
 
-### Windows**Note:** The Windows installer has not been extensively tested and was generated with the assistance of an AI. Use at your own discretion.
+### Windows
+**Note:** The Windows installer has not been extensively tested and was generated with the assistance of an AI. Use at your own discretion.
 
 1. **Adjust Execution Policy (if necessary):** If you encounter an error (Windows may block unknown scripts), run the following command in PowerShell:
 ```powershell
